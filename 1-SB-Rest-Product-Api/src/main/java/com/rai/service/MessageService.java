@@ -13,7 +13,7 @@ import java.math.BigDecimal;
 @Service
 public class MessageService {
 	public static final String ACCOUNT_SID = "ACf436275338e23cd4ea3746dced49e211";
-    //public static final String AUTH_TOKEN = "15967117b745ee8f8d3f8fe9d596bf1b";
+    //public static final String AUTH_TOKEN = "*******************";
 	public static final String AUTH_TOKEN ="********************";
     public static final String MOBLIE_NUMBER="whatsapp:+";
 	
